@@ -1,24 +1,24 @@
 {
-    "name": "seerbit/seerbit-laravel",
-    "description": "SeerBit API Laravel SDK",
+    "name": "manifestseerbit/seerbit-laravel",
+    "description": "SeerBit API Laravel SDK Forked",
     "keywords": [
+        "manifest", 
         "seerbit",
         "seerbit-laravel",
         "payment-gateway"
     ],
-    "homepage": "https://github.com/seerbit/seerbit-laravel",
+    "homepage": "https://github.com/johnsonsebire/manifest-seerbit-package-laravel",
     "license": "MIT",
     "type": "library",
     "authors": [
         {
-            "name": "Victor Osas Ighalo",
-            "email": "victorighalo@gmail.com",
+            "name": "Johnson Sebire",
+            "email": "johnson@manifestghana.com",
             "role": "Developer"
         }
     ],
     "require": {
         "php": "^7.1.3",
-        "illuminate/support": "^5.5",
         "seerbit/seerbit-php-sdk":"^2.0"
     },
     "require-dev": {
