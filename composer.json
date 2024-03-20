@@ -21,6 +21,9 @@
         "php": ">=7.1.3",
         "seerbit/seerbit-php-sdk":"^2.0"
     },
+    
+    "minimum-stability": "stable",
+
     "require-dev": {
         "orchestra/testbench": "^3.8",
         "phpunit/phpunit": "^7.5 || ^8.0 || ^9.0"
